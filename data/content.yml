@@ -18,7 +18,7 @@ about:
   enable: true
   image: 'images/profile.jpeg'
   title: 'ESSE SOU EU'
-  content: Olá, obrigado por visitar o meu site. Aqui você encontra mais sobre meu trabalho e minha paixão pela música. Entre em contato para saber mais [LinkedIn, Github, ou por email](#contact)!
+  content: Olá, obrigado por visitar o meu site. Aqui você encontra mais sobre meu trabalho e minha paixão pela música. Entre em contato para saber mais [Instagram, Youtube, ou por email](#contact)!
   button:
     enable: true
     label: 'DOWNLOAD MY RESUME'
