@@ -1,0 +1,99 @@
+########################## hero area ##########################
+hero:
+  title: "Eu sou Felipe Oliveira"
+
+  # animated text loop
+  occupations:
+    - 'Produtor Musical'
+    - 'Operador de Áudio'
+    - 'Músico Profissional'
+
+  # hero background image
+  bg_image: 'images/background_music.jpg'
+  # optional mobile breakpoint background
+  mobile_bg_image: 'images/gus_small.jpg'
+
+########################### About ##################################
+about:
+  enable: true
+  image: 'images/profile.jpeg'
+  title: 'ESSE SOU EU'
+  content: Olá, obrigado por visitar o meu site. Aqui você encontra mais sobre meu trabalho e minha paixão pela música. Entre em contato para saber mais [LinkedIn, Github, ou por email](#contact)!
+  button:
+    enable: true
+    label: 'DOWNLOAD MY RESUME'
+    link: #
+    icon: 'fa-download'
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: 'EXPERIÊNCIA'
+  experience_list:
+    - name: Produtor Musical
+      company: Freelance
+      duration: '2020-Current'
+      content: Produção de trilhas sonoras para games e artistas independentes como XXXXXXXX
+
+    - name: Operador de Áudio
+      company: XXX Studio
+      duration: '2019-2020'
+      content: Produção de XXXX para a Universal, titulos XXX, etc
+
+    - name: Músico Profissional
+      company: Freelance
+      duration: '2000-Current'
+      content: Especializado em instrumentos de cordas, tendo atuado com artistas conceituados como XXXXX, XXXX, XXXX. 
+
+############################### Skill #################################
+skill:
+  enable: true
+  title: 'HABILIDADES'
+  showpercent: false
+  skill_list:
+    - name: 'Guitarra Elétrica e Instrumentos de Cordas'
+      percentage: '100%'
+
+    - name: 'DAW e Mixagem'
+      percentage: '93%'
+
+    - name: 'Composição e Produção'
+      percentage: '87%'
+
+    - name: 'Direção Musical'
+      percentage: '87%'
+
+######################### funfacts #############################3
+funfacts:
+  enable: true
+  funfacts_list:
+    - name: 'ANOS COMO DIRETOR MUSICAL'
+      image: 'images/icons/drama.svg'
+      count: '15'
+
+    - name: 'MÚSICAS PRODUZIDAS'
+      image: 'images/icons/file-audio.svg'
+      count: '100'
+
+    - name: 'COMPOSIÇÕES PRÓPRIAS'
+      image: 'images/icons/music.svg'
+      count: '25'
+
+############################# portfolio ################################
+portfolio:
+  enable: true
+  title: 'MEUS TRABALHOS'
+  portfolio_list:
+    - name: Hugo
+      image: 'images/portfolio/hugo.png'
+      url: https://www.youtube.com/watch?v=j5k4QKY3Jhs
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: Hugo Themes
+      image: 'images/portfolio/hugothemes.png'
+      url: https://gohugo.io
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: Just A Design
+      image: 'images/portfolio/design.png'
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
